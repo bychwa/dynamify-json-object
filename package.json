@@ -1,0 +1,15 @@
+{
+  "name": "dynamify-json-object",
+  "version": "1.0.4",
+  "description": "Converts standard json object to dynamo marshalled object.",
+  "main": "dynamify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb",
+    "json"
+  ],
+  "author": "Jackson Isack",
+  "license": "ISC"
+}
